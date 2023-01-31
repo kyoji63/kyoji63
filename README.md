@@ -1,7 +1,10 @@
-### Kaito K.
+## Kaito K.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoji63&theme=dark&show_icons=true)
+
+
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=kyoji63&layout=compact&theme=dark)
 <!--
 **kyoji63/kyoji63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
