@@ -1,6 +1,7 @@
 ### Kaito K.
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kyoji63)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kyoji63&count_private=true&theme=tokyonight)
+
 <!--
 **kyoji63/kyoji63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
