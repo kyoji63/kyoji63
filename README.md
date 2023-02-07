@@ -1,7 +1,7 @@
 ## Kaito K.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoji63&theme=dark&show_icons=true$count_private = true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoji63&theme=dark&show_icons=true$count_private=true)
 
 
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=kyoji63&layout=compact&theme=dark)
