@@ -2,7 +2,8 @@
 
 <p align = "left">
   <img alt="GitHub stas" height="180px" hspace="10"src="https://github-readme-stats.vercel.app/api?username=kyoji63&theme=dark&show_icons=true$count_private=true">  
-  <img alt="Top Lang" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyoji63&layout=compact&theme=dark">
+  <img alt="Top Lang" height="180px" hspace="10" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyoji63&layout=compact&theme=dark">
+  <img alt="Top Lang" hspace="6" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kyoji63&theme=github_dark">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
