@@ -1,4 +1,4 @@
-## Kaito K.
+## kyoji
 
 <p align = "left">
   <img alt="GitHub stas" height="180px" hspace="10"src="https://github-readme-stats.vercel.app/api?username=kyoji63&count_private=true&theme=gotham&show_icons=true">  
