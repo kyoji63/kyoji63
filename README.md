@@ -1,9 +1,9 @@
-## kyoji
+## About me
 
 <p align = "left">
   <img alt="GitHub stas" height="180px" hspace="10"src="https://github-readme-stats.vercel.app/api?username=kyoji63&count_private=true&theme=gotham&show_icons=true">  
   <img alt="Top Lang" height="180px" hspace="10" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyoji63&layout=compact&theme=gotham">
-  <img alt="Top Lang" hspace="6" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kyoji63&theme=github_dark">
+  <img alt="Top Lang" hspace="6" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kyoji63&theme=gotham">
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kyoji63&theme=whatsapp-dark2&hide_border=true&border_radius=12.5&card_width=510)](https://git.io/streak-stats)
