@@ -1,5 +1,4 @@
-## About me
-
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="30" height="30" /> About me 
 <p align = "left">
   <img alt="GitHub stas" height="180px" hspace="10"src="https://github-readme-stats.vercel.app/api?username=kyoji63&count_private=true&theme=gotham&show_icons=true&hide_border=true">  
   <img alt="Top Lang" height="180px" hspace="10" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyoji63&layout=compact&theme=gotham&hide_border=true">
@@ -8,7 +7,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kyoji63&theme=gotham&hide_border=true&border_radius=12.5&card_width=510)](https://git.io/streak-stats)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tdautqznjymanqijj2zofph48&count=3)
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Mechanical%20Arm.png" alt="Mechanical Arm" width="25" height="25" /> Languages and Tools:</h3>
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="51" height="51" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="51" height="51" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="51" height="51" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="51" height="51" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="51" height="51" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="51" height="51" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="51" height="51" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="51" height="51" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="51" height="51" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="51" height="51" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="51" height="51" />
 <img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js">
 <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/>
